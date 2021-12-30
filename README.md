@@ -1,7 +1,7 @@
 ## NAME_OF_YOUR_APP_HERE
 
 ### App Description
-`TODO://` Add app description
+A basic mobile app that allows users to tap on various buttons to change the background view, to change the text string of the label to "Android is Awesome!", and to update the label text with a custom text. Users can also tap on the background view to reset all views to the default settings. 
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
