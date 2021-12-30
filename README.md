@@ -1,11 +1,11 @@
-## NAME_OF_YOUR_APP_HERE
+## Hello World
 
 ### App Description
 A basic mobile app that allows users to tap on various buttons to change the background view, to change the text string of the label to "Android is Awesome!", and to update the label text with a custom text. Users can also tap on the background view to reset all views to the default settings. 
 
 ### App Walk-though
 
-<img src="http://g.recordit.co/y3SZ1mfejP.gif" width=200><br>
+<img src="http://g.recordit.co/0xi97yrY4m.gif" width=200><br>
 
 
 
